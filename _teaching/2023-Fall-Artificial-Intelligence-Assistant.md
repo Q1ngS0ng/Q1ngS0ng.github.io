@@ -8,11 +8,4 @@ date: 2023-09-01
 location: "Wuhan, China"
 ---
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This semester, I assisted Chao Ma as a teaching assistant in supervising a class of 75 undergraduates in the artificial intelligence course.
