@@ -8,13 +8,4 @@ date: 2023-09-01
 location: "Wuhan, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This semester, I assisted Lecturer Chao Ma as a teaching assistant in supervising a class of 66 undergraduates in the artificial intelligence laboratory course.
