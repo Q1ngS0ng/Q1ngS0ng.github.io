@@ -17,12 +17,12 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Winter 2023: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+* Winter 2023: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
