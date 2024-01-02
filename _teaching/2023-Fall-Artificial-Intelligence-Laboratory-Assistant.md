@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence Laboratory Course"
+title: "Artificial Intelligence Laboratory"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-Fall-Artificial-Intelligence-Laboratory-Assistant
