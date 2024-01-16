@@ -13,6 +13,7 @@ My research interest includes **Model Compression and Acceleration**  and  **AIG
 [//]: # (I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> &#40;You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>&#41;.)
 
 # 🔥 News
+- *2024.01*: &nbsp;🎉🎉 I have been awarded [**The Advanced Individual**](https://ygb.whu.edu.cn/info/1086/21275.htm) in the *2023 China Graduate Innovation Practice Series Competition* by Wuhan University (Award Rate: 10% School-wide).
 - *2023.11*: &nbsp;🎉🎉 My team “Deepradar” won the **The Second Prize** of "HUAWEI Cup" the 2th China Post-Graduate Cyber Security Innovation Competition.
 - *2023.11*: &nbsp;🎉🎉 My team “泰Kun啦” won the **Investment Value Award** (highest award, award rate less than 0.5%) of the 2023 Cyber Security Outstanding Innovation Achievement Competition (Finals of College Students' Innovation and Entrepreneurship Works) from China Cybersecurity Industry Alliance (CCIA).
 - *2023.10*: &nbsp;🎉🎉 I have obtained the **National Scholarship** for Graduate students (Award Rate: 0.2% National-wide) Ministry of Education, China.
@@ -56,6 +57,7 @@ My research interest includes **Model Compression and Acceleration**  and  **AIG
 [//]: # (- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet]&#40;https://github.com&#41;, A, B, C, **CVPR 2020**)
 
 # 🏅 Honors and Awards
+- *2024.01* **The Advanced Individual** in the *2023 China Graduate Innovation Practice Series Competition* (Award Rate: 10% School-wide) Wuhan University.
 - *2023.10* **National Scholarship** for Graduate students (Award Rate: 0.2% National-wide) Ministry of Education, China.
 - *2023.06* **The Excellent Bachelor's Thesis** (Award Rate: less than 5% School-wide) Wuhan University.
 - *2023.03* **The Advanced Individual** in the *2022 China Graduate Innovation Practice Series Competition* (Award Rate: 5% School-wide) Wuhan University.
