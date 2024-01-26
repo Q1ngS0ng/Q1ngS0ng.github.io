@@ -20,7 +20,7 @@ My research interest includes **Model Compression and Acceleration**  and  **AIG
 - *2023.08*: &nbsp;🎉🎉 My team “泰Kun啦” won **the First Prize** and **the Most Innovative and Entrepreneurial Value Award** (highest award, award rate about 1%) of the National College Student Information Security Competition (第十六届全国大学生信息安全竞赛—作品赛决赛一等奖和最具创新创业奖). Congrats to our students, Mingming Zhang, Jinzhao Lv, and Muyang Li.
 - *2023.06*: &nbsp;🎉🎉 I have obtained the Bachelor's degree from Wuhan University. 🎓🎓
 - *2023.06*: &nbsp;🎉🎉 My undergraduation thesis *Research on Anti-Stealing Technology of Deep Neural Network Model Based on Model Obfuscation* was awaeded as [**the Excellent Bachelor's Thesis of Wuhan University**](https://uc.whu.edu.cn/info/1517/16569.htm)! 
-- *2023.03*: &nbsp;🎉🎉 I have been awarded [**The Advanced Individual**](https://ygb.whu.edu.cn/info/1086/20392.htm) in the *2022 China Graduate Innovation Practice Series Competition* by Wuhan University (Award Rate: 5% School-wide).
+[//]: # (- *2023.03*: &nbsp;🎉🎉 I have been awarded [**The Advanced Individual**](https://ygb.whu.edu.cn/info/1086/20392.htm) in the *2022 China Graduate Innovation Practice Series Competition* by Wuhan University (Award Rate: 5% School-wide).)
 
 # 📝 Publications 
 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
