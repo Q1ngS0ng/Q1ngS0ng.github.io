@@ -72,6 +72,8 @@ My research interest includes **Model Compression and Acceleration**  and  **AIG
 - *2017.11* **Provincial-Level Merit Student in Henan Province** (Award Rate less than 0.3% Province-wide)The Education Department, Henan Province.
 
 # 🏆 Competition and Awards
+- *2023.05* **The Silver Prize 🥈** of The 12th "Zi Qiang Cup" College Student Entrepreneurship Plan Competition of Wuhan University.
+- *2023.04* **The Silver Prize 🥈** of NCC Masters Tennis Tournament.
 - *2023.11* **The Second Prize** of "HUAWEI Cup" the 2th China Post-Graduate Cyber Security Innovation Competition.
 - *2023.11* **Investment Value Award** (highest award, award rate less than 0.5%) of the 2023 Cyber Security Outstanding Innovation Achievement Competition (Finals of College Students' Innovation and Entrepreneurship Works) from China Cybersecurity Industry Alliance (CCIA).
 - *2023.08* **The First Prize** and **The Most Innovative and Entrepreneurial Value Award** (Highest award, Award Rate 11/892≈1%) of the National College Student Information Security Competition (Award Rate less than 5%) .
