@@ -57,6 +57,7 @@ My research interest includes **Model Compression and Acceleration**  and  **AIG
 [//]: # (- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet]&#40;https://github.com&#41;, A, B, C, **CVPR 2020**)
 
 # 🏅 Honors and Awards
+- *2024.06* **雷军计算机创新与发展资助基金**（科研竞赛A类，全年仅4项）
 - *2024.05* **Social Activist** Wuhan University.
 - *2024.01* **The Advanced Individual** in the *2023 China Graduate Innovation Practice Series Competition* (Award Rate: 10% School-wide) Wuhan University.
 - *2023.10* **National Scholarship** for Graduate students (Award Rate: 0.2% National-wide) Ministry of Education, China.
