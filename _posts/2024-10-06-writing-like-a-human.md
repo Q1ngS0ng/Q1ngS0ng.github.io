@@ -6,4 +6,3 @@ tags:
   - Research
   - Writing
 ---
-[Science research writing](https://redacaocientifica.weebly.com/uploads/6/0/2/2/60226751/science_writing_for_non-native_engish_speakers.pdf)

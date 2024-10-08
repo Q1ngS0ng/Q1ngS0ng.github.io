@@ -7,3 +7,5 @@ tags:
 ---
 
 [苏星河的科学空间](_posts/2024-09-25-your-idea.md)
+
+[Science research writing](https://redacaocientifica.weebly.com/uploads/6/0/2/2/60226751/science_writing_for_non-native_engish_speakers.pdf)

@@ -1,11 +1,3 @@
-<!--
- * @Author: YuwanZ
- * @Date: 2024-09-07 16:00:09
- * @LastEditors: YuwanZ
- * @LastEditTime: 2024-10-02 10:22:47
- * @Description: 
- * @FilePath: \Q1ngS0ng.github.io\_pages\about.md
--->
 ---
 permalink: /
 title: "Welcome to my homepage!"
