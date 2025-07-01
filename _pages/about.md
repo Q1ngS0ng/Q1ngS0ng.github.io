@@ -23,7 +23,7 @@ My research interest includes **Model Compression and Acceleration**  and  **AIG
 [//]: # (- *2023.03*: &nbsp;🎉🎉 I have been awarded [**The Advanced Individual**](https://ygb.whu.edu.cn/info/1086/20392.htm) in the *2022 China Graduate Innovation Practice Series Competition* by Wuhan University (Award Rate: 5% School-wide).)
 
 # 📝 Publications 
-🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
+<!-- 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
 
 🤣👇👇👇👇👇👇👇👇🤣
 
@@ -31,7 +31,24 @@ My research interest includes **Model Compression and Acceleration**  and  **AIG
 
 🤣👆👆👆👆👆👆👆👆🤣
 
-🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
+🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣 -->
+
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Usenix Security 2025</div><img src='images/USD/OverallPipline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[USD: NSFW Content Detection for Text-to-Image Models via Scene Graph]()\\
+**Yuyang Zhang**, Kangjie Chen, Xudong Jiang, Jiahui Wen, Yihui Jin, Ziyou Liang, Yihao Huang, Run Wang, Lina Wang\\
+**USENIX Security Symposium 2025** (CCF-A)
+</div>
+</div> 
+
+
+<!-- (- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet]&#40;https://github.com&#41;, A, B, C, **CVPR 2020**) -->
+
+
 
 [//]: # ()
 [//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>)
