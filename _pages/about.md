@@ -13,14 +13,14 @@ My research interest includes **Model Compression and Acceleration**  and  **AIG
 [//]: # (I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> &#40;You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>&#41;.)
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 I have been awarded [**The Advanced Individual**](https://ygb.whu.edu.cn/info/1086/21275.htm) in the *2023 China Graduate Innovation Practice Series Competition* by Wuhan University (Award Rate: 10% School-wide).
+<!-- - *2024.01*: &nbsp;🎉🎉 I have been awarded [**The Advanced Individual**](https://ygb.whu.edu.cn/info/1086/21275.htm) in the *2023 China Graduate Innovation Practice Series Competition* by Wuhan University (Award Rate: 10% School-wide).
 - *2023.11*: &nbsp;🎉🎉 My team “Deepradar” won the **The Second Prize** of "HUAWEI Cup" the 2th China Post-Graduate Cyber Security Innovation Competition.
 - *2023.11*: &nbsp;🎉🎉 My team “泰Kun啦” won the **Investment Value Award** (highest award, award rate less than 0.5%) of the 2023 Cyber Security Outstanding Innovation Achievement Competition (Finals of College Students' Innovation and Entrepreneurship Works) from China Cybersecurity Industry Alliance (CCIA).
 - *2023.10*: &nbsp;🎉🎉 I have obtained the **National Scholarship** for Graduate students (Award Rate: 0.2% National-wide) Ministry of Education, China.
 - *2023.08*: &nbsp;🎉🎉 My team “泰Kun啦” won **the First Prize** and **the Most Innovative and Entrepreneurial Value Award** (highest award, award rate about 1%) of the National College Student Information Security Competition (第十六届全国大学生信息安全竞赛—作品赛决赛一等奖和最具创新创业奖). Congrats to our students, Mingming Zhang, Jinzhao Lv, and Muyang Li.
 - *2023.06*: &nbsp;🎉🎉 I have obtained the Bachelor's degree from Wuhan University. 🎓🎓
-- *2023.06*: &nbsp;🎉🎉 My undergraduation thesis *Research on Anti-Stealing Technology of Deep Neural Network Model Based on Model Obfuscation* was awaeded as [**the Excellent Bachelor's Thesis of Wuhan University**](https://uc.whu.edu.cn/info/1517/16569.htm)! 
-[//]: # (- *2023.03*: &nbsp;🎉🎉 I have been awarded [**The Advanced Individual**](https://ygb.whu.edu.cn/info/1086/20392.htm) in the *2022 China Graduate Innovation Practice Series Competition* by Wuhan University (Award Rate: 5% School-wide).)
+- *2023.06*: &nbsp;🎉🎉 My undergraduation thesis *Research on Anti-Stealing Technology of Deep Neural Network Model Based on Model Obfuscation* was awaeded as [**the Excellent Bachelor's Thesis of Wuhan University**](https://uc.whu.edu.cn/info/1517/16569.htm)!  -->
+
 
 # 📝 Publications 
 
@@ -29,7 +29,7 @@ My research interest includes **Model Compression and Acceleration**  and  **AIG
       USD: NSFW Content Detection for Text-to-Image Models via Scene Graph
     </span>
 
-    <a href="https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-yuyang" class="paper-link">[PDF]</a>
+    
     <!-- <a href="project.html" class="paper-link">Project</a>
     <a href="code.html" class="paper-link">Code</a>
     <a href="dataset.html" class="paper-link">Dataset</a> -->
@@ -41,6 +41,10 @@ My research interest includes **Model Compression and Acceleration**  and  **AIG
     </span>
     <span class="paper-venue-tag">
       2025 
+
+    </span>  
+      <span class="assest-venue-tag">
+      <a href="https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-yuyang" class="paper-link">PDF</a>
     </span>  
 
   <blockquote class="paper-authors-block">
@@ -89,6 +93,19 @@ My research interest includes **Model Compression and Acceleration**  and  **AIG
   border-radius: 999px;   /* 胶囊 */
   white-space: nowrap;    /* 标签内部不折行 */
   line-height: 1.0;
+}
+
+.assest-venue-tag {
+  display: inline-block;
+  padding: 0.15rem 0.75rem;
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: #996200;                     /* 柔和的深琥珀色 */
+  background-color: rgba(255, 170, 0, 0.20);  /* 浅浅透明橙色 */
+  border-radius: 999px;               /* 胶囊形状 */
+  white-space: nowrap;
+  line-height: 1.0;
+  border: 1px solid rgba(255, 170, 0, 0.35); /* 可选：更自然的半透明边框 */
 }
 
 .paper-authors-block {
@@ -172,7 +189,8 @@ My research interest includes **Model Compression and Acceleration**  and  **AIG
 - *2022.10* **The Excellent Prize** of 2022"CTC Youth Cup" International Organizations Document Translation Competition ( Award Rate less than 5%).
 
 # 📖 Educations
-- *2023.06 - Now*, Graduate, Wuhan University, China. Majoring in Cyber Security (School of Cyber Science and Engineering). Mentor: [**Run Wang**](http://wangrun.github.io/).
+- *2025.09 - Now*, Ph.D, Wuhan University, China. Majoring in Cyber Security (School of Cyber Science and Engineering). Mentor: [**Run Wang**](http://wangrun.github.io/).
+- *2023.06 - 2025.06*, Graduate, Wuhan University, China. Majoring in Cyber Security (School of Cyber Science and Engineering). Mentor: [**Run Wang**](http://wangrun.github.io/).
 - *2018.09 - 2023.06*, Undergraduate, Wuhan University, China. Majored in Cyber Security (School of Cyber Science and Engineering) and minored in Economics (Economics and Management School).
 - *2015.09 - 2018.06*, High School, Yuzhou Senior High School, China.
 - *2012.09 - 2015.06*, Middle School Yuzhou Experimental School, China.
