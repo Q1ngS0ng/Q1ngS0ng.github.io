@@ -23,32 +23,103 @@ My research interest includes **Model Compression and Acceleration**  and  **AIG
 [//]: # (- *2023.03*: &nbsp;🎉🎉 I have been awarded [**The Advanced Individual**](https://ygb.whu.edu.cn/info/1086/20392.htm) in the *2022 China Graduate Innovation Practice Series Competition* by Wuhan University (Award Rate: 5% School-wide).)
 
 # 📝 Publications 
-<!-- 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
 
-🤣👇👇👇👇👇👇👇👇🤣
+<div class="paper-entry">
+    <span class="paper-title">
+      USD: NSFW Content Detection for Text-to-Image Models via Scene Graph
+    </span>
 
-🤣👉 **!404  Not  Found!** 👈🤣
+    <a href="https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-yuyang" class="paper-link">[PDF]</a>
+    <!-- <a href="project.html" class="paper-link">Project</a>
+    <a href="code.html" class="paper-link">Code</a>
+    <a href="dataset.html" class="paper-link">Dataset</a> -->
+    <span class="paper-venue-tag">
+      USENIX Security Symposium 
+    </span>
+    <span class="paper-venue-tag">
+      (CCF-A) 
+    </span>
+    <span class="paper-venue-tag">
+      2025 
+    </span>  
 
-🤣👆👆👆👆👆👆👆👆🤣
-
-🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣 -->
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Usenix Security 2025</div><img src='images/USD/OverallPipline.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[USD: NSFW Content Detection for Text-to-Image Models via Scene Graph]()\\
-**Yuyang Zhang**, Kangjie Chen, Xudong Jiang, Jiahui Wen, Yihui Jin, Ziyou Liang, Yihao Huang, Run Wang, Lina Wang\\
-**USENIX Security Symposium 2025** (CCF-A)
+  <blockquote class="paper-authors-block">
+    <div class="paper-authors">
+      <span class="author-first">Yuyang Zhang<sup>*</sup></span>,
+      <span class="author-others">Kangjie Chen<sup>*</sup></span>,
+      <span class="author-others">Xudong Jiang</span>,
+      <span class="author-others">Jiahui Wen</span>,
+      <span class="author-others">Yihui Jin</span>,
+      <span class="author-others">Ziyou Liang</span>,
+      <span class="author-others">Yihao Huang</span>,
+      <span class="author-others">Run Wang</span>,
+      <span class="author-others">Lina Wang</span>
+    </div>
+  </blockquote>
 </div>
-</div> 
+
+<style>
+
+.paper-entry {
+  margin-bottom: 2rem;
+}
+
+.paper-title-row {
+  display: flex;          /* 用 flex 就好，inline-flex 容易被外层影响 */
+  align-items: center;
+  column-gap: 0.5rem;     /* title 和 tag 的间距 */
+  row-gap: 0.25rem;
+  flex-wrap: wrap;        /* 宽度不够时允许换行（tag 会掉到下一行） */
+  margin-bottom: 0.4rem;
+}
+
+.paper-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #222;
+}
+
+.paper-venue-tag {
+  display: inline-block;
+  padding: 0.15rem 0.75rem;
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: #24527a;
+  background-color: #e6f0ff;
+  border-radius: 999px;   /* 胶囊 */
+  white-space: nowrap;    /* 标签内部不折行 */
+  line-height: 1.0;
+}
+
+.paper-authors-block {
+  border-left: 3px solid #ddd;
+  padding-left: 10px;
+  margin-top: 0.3rem;
+  margin-bottom: 0.3rem;
+}
+
+.paper-authors {
+  font-size: 1rem;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.author-first {
+  font-weight: 600;
+  color: #222;
+}
+
+.author-others {
+  font-weight: 400;
+  color: #666;
+}
+
+</style>
+
+
 
 
 <!-- (- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet]&#40;https://github.com&#41;, A, B, C, **CVPR 2020**) -->
-
-
 
 [//]: # ()
 [//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>)
