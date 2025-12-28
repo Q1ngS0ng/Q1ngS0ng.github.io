@@ -33,17 +33,20 @@ My research interest includes **Model Compression and Acceleration**  and  **AIG
     <!-- <a href="project.html" class="paper-link">Project</a>
     <a href="code.html" class="paper-link">Code</a>
     <a href="dataset.html" class="paper-link">Dataset</a> -->
+    
     <span class="paper-venue-tag">
       USENIX Security Symposium 
     </span>
+    
     <span class="paper-venue-tag">
       (CCF-A) 
     </span>
+
     <span class="paper-venue-tag">
       2025 
-
     </span>  
-      <span class="assest-venue-tag">
+    
+    <span class="assest-venue-tag">
       <a href="https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-yuyang" class="paper-link">PDF</a>
     </span>  
 
