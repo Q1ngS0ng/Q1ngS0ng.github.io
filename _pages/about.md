@@ -33,7 +33,9 @@ My research interest includes **Model Compression and Acceleration**  and  **AIG
     <!-- <a href="project.html" class="paper-link">Project</a>
     <a href="code.html" class="paper-link">Code</a>
     <a href="dataset.html" class="paper-link">Dataset</a> -->
+
     
+
     <span class="paper-venue-tag">
       USENIX Security Symposium 
     </span>
@@ -48,6 +50,14 @@ My research interest includes **Model Compression and Acceleration**  and  **AIG
     
     <span class="assest-venue-tag">
       <a href="https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-yuyang" class="paper-link">PDF</a>
+    </span>  
+
+    <span class="assest-venue-tag">
+      <a href="https://doi.org/10.6084/m9.figshare.31449583" class="paper-link">Code</a>
+    </span>  
+
+    <span class="assest-venue-tag">
+      <a href="https://huggingface.co/datasets/yuwan0/UnsafeSceneDetection" class="paper-link">Dataset</a>
     </span>  
 
   <blockquote class="paper-authors-block">
